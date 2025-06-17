@@ -33,7 +33,7 @@ Shows the spread of ratings across restaurants.
 
 ### ⭐ Average Rating by City (Top 10)  
 Identifies which cities have the highest rated restaurants.  
-![Average Rating by City](Average_Rating_Top10_Cities)
+![Average Rating by City](Rating_Top10.png)
 
 ---
 
